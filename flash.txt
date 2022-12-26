@@ -32,8 +32,3 @@ fastboot flash product product.img
 fastboot flash vendor vendor.img
 fastboot flash vbmeta vbmeta.img
 fastboot reboot
-
-# Platform-tools
-Windows: https://dl.google.com/android/repository/platform-tools-latest-windows.zip?hl=pt-br
-
-Linux: https://dl.google.com/android/repository/platform-tools-latest-linux.zip?hl=pt-br
